@@ -1,0 +1,10 @@
+.Layout{
+    height: 100vh;
+}
+
+@media(min-width: 1300px){
+    .Layout{
+        height: 60vh;
+    }
+  
+}
